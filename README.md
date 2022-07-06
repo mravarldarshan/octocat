@@ -1,10 +1,10 @@
-[![MasterHead](https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif)](https://rishavchanda.io/)
+[![MasterHead](https://komarev.com/ghpvc/?username=mravarldarshan&label=Profile%20views&color=0e75b6&style=flat)](https://rishavchanda.io/)
 <h1 align="center">Hi 👋, I'm Darshan Raval</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
 <img  align="right" alt="Coding" width="400" src="https://qphs.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mravarldarshan&label=Profile%20views&color=0e75b6&style=flat" alt="mravarldarshan" /> </p>
+<p align="left"> <img src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" alt="mravarldarshan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/darshan raval" target="blank"><img src="https://img.shields.io/twitter/follow/darshan raval?logo=twitter&style=for-the-badge" alt="darshan raval" /></a> </p>
 
