@@ -5,7 +5,7 @@
 </p>  
 
 <div align="center">
-<h3 align="center">Connect With Me!!!<img align="center" src="https://github.com/ravaldarshan/ravaldarshan/blob/master/gifs/Handshake.gif" height="33px" /></h3>
+<h3 align="center">Connect With Me!<img align="center" src="https://github.com/ravaldarshan/ravaldarshan/blob/main/images/gifs/Handshake.gif" height="33px" /></h3>
 <center>
 <a href=""><img src="https://img.icons8.com/fluent/50/000000/twitter.png"></a>
 </center> 
@@ -20,25 +20,19 @@
 </center>
 <br>
 <br>
-<a href="https://ravaldarshan.in/"><img src="https://img.shields.io/badge/Check_out_my-portfolio-rblue?style=for-the-badge&logo=Opsgenie&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/Check_out_my-portfolio-rblue?style=for-the-badge&logo=Opsgenie&logoColor=white"></a>
 </center>
 </div>    
 
 ### 🙏 Pranam
 
-### About 🙋🏻‍♂️
+### About Me🙋🏻‍♂️
 ```python
-Name = "Cyber Boy Ayush"
-who_i_am = ['Coding = ❣️❤️']
-Age = "18"
+Name = "Darshana raval"
+Age = "23"
 Country = "🇮🇳"
-```
-
-```python
-me = "Coding" 
-status = "Do Not Disturb!" 
-print(f"{me}, Please {status}")
-```
+Email = "ravaldarshan237200@gmail.com"
+```s
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravaldarshan&label=Profile%20Views&color=orange&style=flat-square" alt="ravaldarshan" /> </p>
 
 ## My Info 
@@ -51,15 +45,10 @@ print(f"{me}, Please {status}")
 
 - 👯 I’m Looking To Collaborate On Projects
 
-- 💬 Ask me about Web Dev/Python
+- 💬 Ask me about Web Dev/php laravel
 
-- 📫 How to reach me: [Ayush Sharma](https://telegram.me/ravaldarshan)
+- 💬 Mail Me : [rava](mailto:ravaldarshan237200@gmail.com)
 
-- 📫 Reach Me On Twitter: [ravaldarshan](https://twitter.com/AyushCodz) 
-
-- 💬 Mail Me : [Here](mailto:contact@ravaldarshan.in)
-
-- 👯 Join Telegram Channel : [Here](https://t.me/ayushbots)
 
 ## My GitHub Stats, Streak and Trophy💛
 
@@ -98,28 +87,14 @@ Follow Me On:
 
 </details>
 
-## Donate Me:
-[![Donate](https://img.shields.io/badge/Donate%20Us-UPI-orange?style=for-the-badge)](https://upayi.ml/ayushsharma2424@ybl)
-
 ### Languages and Tools I Use And Love❤️
 <p align="center">
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-faff00.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
-<img alt="React" src="https://img.shields.io/badge/React-%2320C4CB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
-<img alt="Next Js" src="https://img.shields.io/badge/Next.JS-000000.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img alt="Node JS" src="https://img.shields.io/badge/Node Js-%2300f.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-<img alt="C Lang" src ="https://img.shields.io/badge/C Lang-red.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-<img alt="Java" src="https://img.shields.io/badge/Java-%2314854C.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23921011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 <img alt="Canva" src="https://img.shields.io/badge/Canva-%2320C4CB.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 </p>
 
