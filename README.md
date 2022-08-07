@@ -1,6 +1,6 @@
 [![alt text](https://github.com/ravaldarshan/ravaldarshan/blob/main/images/baanner.gif)](https://ravaldarshan.in/me)
 
-<div align="center">
+<div align="center" style="padding-left: 100px">
     <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=Mr.Darshan+Raval+%E2%9D%A4%EF%B8%8F">
 </div>
 
