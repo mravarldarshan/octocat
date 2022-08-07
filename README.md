@@ -32,7 +32,7 @@ Name = "Darshana raval"
 Age = "23"
 Country = "🇮🇳"
 Email = "ravaldarshan237200@gmail.com"
-```s
+```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravaldarshan&label=Profile%20Views&color=orange&style=flat-square" alt="ravaldarshan" /> </p>
 
 ## My Info 
