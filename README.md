@@ -1,8 +1,8 @@
 [![alt text](https://github.com/ravaldarshan/ravaldarshan/blob/main/images/baanner.gif)](https://ravaldarshan.in/me)
 
-<!-- <div align="center"> -->
-<img style="padding-left: 173px" src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=Mr.Darshan+Raval+%E2%9D%A4%EF%B8%8F">
-<!-- </div> -->
+<div align="center" style="padding-left: 173px">
+<img  src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=Mr.Darshan+Raval+%E2%9D%A4%EF%B8%8F">
+</div>
 
 <div align="center">
 <h3 align="center">Connect With Me!<img align="center" src="https://github.com/ravaldarshan/ravaldarshan/blob/main/images/gifs/Handshake.gif" height="33px" /></h3>
