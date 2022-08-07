@@ -1,39 +1,128 @@
-<img src="https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966" alt="MasterHead" style="max-width: 100%;">
-<h1 align="center">Hi 👋, I'm Darshan Raval</h1>
-<h3 align="center">A passionate web developer from India</h3>
+[![alt text](https://github.com/ravaldarshan/ravaldarshan/blob/master/Copy%20of%20ravaldarshan%20Banner%20HD(1).png)](https://ravaldarshan.in/me)
 
-<img  align="right" alt="Coding" width="400" src="https://qphs.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=Mr.Darshan+Raval+%E2%9D%A4%EF%B8%8F">
+</p>  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravaldarshan&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+<div align="center">
+<h3 align="center">Connect With Me!!!<img align="center" src="https://github.com/ravaldarshan/ravaldarshan/blob/master/gifs/Handshake.gif" height="33px" /></h3>
+<center>
+<a href=""><img src="https://img.icons8.com/fluent/50/000000/twitter.png"></a>
+</center> 
+<center>
+<a href=""><img src="https://img.icons8.com/fluent/50/000000/gmail--v2.png"></a>
+</center>
+<center>
+<a href=""><img src="https://img.icons8.com/color/50/000000/telegram-app--v2.png"></a>
+</center>
+<center>
+<a href=""><img src="https://img.icons8.com/fluent/50/000000/linkedin.png"></a>
+</center>
+<br>
+<br>
+<a href="https://ravaldarshan.in/"><img src="https://img.shields.io/badge/Check_out_my-portfolio-rblue?style=for-the-badge&logo=Opsgenie&logoColor=white"></a>
+</center>
+</div>    
 
-<p align="left"> <a href="https://twitter.com/darshan raval" target="blank"><img src="https://img.shields.io/twitter/follow/darshan raval?logo=twitter&style=for-the-badge" alt="darshan raval" /></a> </p>
+### 🙏 Pranam
 
-- 🌱 I’m currently learning **php laravel**
+### About 🙋🏻‍♂️
+```python
+Name = "Cyber Boy Ayush"
+who_i_am = ['Coding = ❣️❤️']
+Age = "18"
+Country = "🇮🇳"
+```
 
-- 💬 Ask me about **php**
+```python
+me = "Coding" 
+status = "Do Not Disturb!" 
+print(f"{me}, Please {status}")
+```
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravaldarshan&label=Profile%20Views&color=orange&style=flat-square" alt="ravaldarshan" /> </p>
 
-- 📫 How to reach me **ravaldarshan237200@gmail.com**
+## My Info 
 
-<h3 align="left">Connect with me:</h3>
+[👋](https://ravaldarshan.in) I'm [ravaldarshan](https://telegram.me/ravaldarshan),
+
+- 🔭 I’m Currently Working On My Life 
+
+- 🌱 I’m Currently Studying
+
+- 👯 I’m Looking To Collaborate On Projects
+
+- 💬 Ask me about Web Dev/Python
+
+- 📫 How to reach me: [Ayush Sharma](https://telegram.me/ravaldarshan)
+
+- 📫 Reach Me On Twitter: [ravaldarshan](https://twitter.com/AyushCodz) 
+
+- 💬 Mail Me : [Here](mailto:contact@ravaldarshan.in)
+
+- 👯 Join Telegram Channel : [Here](https://t.me/ayushbots)
+
+## My GitHub Stats, Streak and Trophy💛
+
+<details>
+<summary>Click Here❤️</summary>
+<br>
+    
+![ravaldarshan Git Stats](https://github-readme-stats.vercel.app/api?username=ravaldarshan&include_all_commits=true&count_private=true&theme=highcontrast)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravaldarshan&theme=chartreuse-dark&hide_border=True" alt="ravaldarshan" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravaldarshan&layout=compact&theme=radical)](https://github.com/ravaldarshan)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ravaldarshan&theme=onedark)](https://github.com/ravaldarshan)
+
+</details>
+    
+## Follow Me🔥:
+
+<details>
+<summary>Follow Me On My Social Platform ✌️</summary>
+<br>
+Follow Me On:
 <p align="left">
-<a href="https://twitter.com/darshan raval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darshan raval" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/darshan raval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshan raval" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/darshan raval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="darshan raval" height="30" width="40" /></a>
-<a href="https://fb.com/darshan raval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="darshan raval" height="30" width="40" /></a>
-<a href="https://instagram.com/darshan raval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darshan raval" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/darshan raval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="darshan raval" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/darshan raval" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="darshan raval" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/darshan raval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="darshan raval" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/darshan raval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="darshan raval" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/darshan raval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="darshan raval" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/darshan raval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="darshan raval" height="30" width="40" /></a>
+<a href="https://github.com/ravaldarshan"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?style=for-the-badge&logo=github"></a>
+</p>
+<p align="left">
+<a href=""><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?style=for-the-badge&logo=twitter"></a>
+</p>
+<p align="left">
+<a href=""><img src="https://img.shields.io/badge/Instagram-ravaldarshan-magenta?style=for-the-badge&logo=instagram"></a>
+</p>
+<p align="left">
+<a href=""><img src="https://img.shields.io/badge/Linkedin-ravaldarshan-blue?style=for-the-badge&logo=Linkedin"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+</details>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravaldarshan&show_icons=true&locale=en&layout=compact" alt="ravaldarshan" /></p>
+## Donate Me:
+[![Donate](https://img.shields.io/badge/Donate%20Us-UPI-orange?style=for-the-badge)](https://upayi.ml/ayushsharma2424@ybl)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravaldarshan&show_icons=true&locale=en" alt="ravaldarshan" /></p>
+### Languages and Tools I Use And Love❤️
+<p align="center">
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/Javascript-faff00.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+<img alt="React" src="https://img.shields.io/badge/React-%2320C4CB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+<img alt="Next Js" src="https://img.shields.io/badge/Next.JS-000000.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
+<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img alt="Node JS" src="https://img.shields.io/badge/Node Js-%2300f.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img alt="C Lang" src ="https://img.shields.io/badge/C Lang-red.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/Java-%2314854C.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23921011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+<img alt="Canva" src="https://img.shields.io/badge/Canva-%2320C4CB.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravaldarshan&" alt="ravaldarshan" /></p>
+<p align="center">
+    <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤-red?style=for-the-badge&logo=github"/>
+</p>
