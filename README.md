@@ -1,8 +1,7 @@
 [![alt text](https://github.com/ravaldarshan/ravaldarshan/blob/main/images/baanner.gif)](https://ravaldarshan.in/me)
 
-<div align="center" >
 <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=Hello!+I'm+Darshan+Raval%2C+a+web+developer+who+%E2%9D%A4%EF%B8%8F+to+write+code">
-</div>
+
 
 <div align="center">
 <h3 align="center">Connect With Me!<img align="center" src="https://github.com/ravaldarshan/ravaldarshan/blob/main/images/gifs/Handshake.gif" height="33px" /></h3>
