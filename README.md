@@ -1,6 +1,6 @@
 [![alt text](https://github.com/ravaldarshan/ravaldarshan/blob/main/images/baanner.gif)](https://ravaldarshan.in/me)
 
-<img src="https://readme-typing-svg.herokuapp.com?color=F70000?duration=8000&center=true&vCenter=true&width=800&lines=U+1F44B+I'm+Darshan+Raval%2C+a+web+developer+who+%E2%9D%A4%EF%B8%8F+to+write+code">
+<img src="https://readme-typing-svg.herokuapp.com?color=F70000?duration=8000&center=true&vCenter=true&width=800&lines=&#U+1F44B+I'm+Darshan+Raval%2C+a+web+developer+who+%E2%9D%A4%EF%B8%8F+to+write+code">
 
 
 <div align="center">
