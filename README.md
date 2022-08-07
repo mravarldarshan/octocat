@@ -1,4 +1,4 @@
-[![alt text](https://github.com/ravaldarshan/ravaldarshan/blob/master/Copy%20of%20ravaldarshan%20Banner%20HD(1).png)](https://ravaldarshan.in/me)
+[![alt text](https://github.com/ravaldarshan/ravaldarshan/blob/main/images/baanner.gif)](https://ravaldarshan.in/me)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=Mr.Darshan+Raval+%E2%9D%A4%EF%B8%8F">
